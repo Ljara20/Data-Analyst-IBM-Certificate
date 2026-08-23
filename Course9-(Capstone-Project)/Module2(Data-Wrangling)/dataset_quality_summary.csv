@@ -1,0 +1,115 @@
+Column,Data_Type,Non_Null_Count,Missing_Count,Missing_Percentage,Unique_Values,Column_Type
+AINextMuch less integrated,str,1148,64289,98.25,286,Categorical/Text
+AINextLess integrated,str,2355,63082,96.4,249,Categorical/Text
+AINextNo change,str,12498,52939,80.9,539,Categorical/Text
+AINextMuch more integrated,str,13438,51999,79.46,700,Categorical/Text
+EmbeddedAdmired,str,16733,48704,74.43,1053,Categorical/Text
+EmbeddedWantToWorkWith,str,17600,47837,73.1,1471,Categorical/Text
+EmbeddedHaveWorkedWith,str,22214,43223,66.05,1630,Categorical/Text
+ConvertedCompYearly,float64,23435,42002,64.19,6113,Numeric
+AIToolNot interested in Using,str,24414,41023,62.69,1531,Categorical/Text
+AINextMore integrated,str,24428,41009,62.67,884,Categorical/Text
+Knowledge_9,str,27635,37802,57.77,5,Categorical/Text
+Frequency_3,str,27710,37727,57.65,5,Categorical/Text
+Knowledge_8,str,27758,37679,57.58,5,Categorical/Text
+ProfessionalTech,str,27764,37673,57.57,514,Categorical/Text
+Knowledge_7,str,27778,37659,57.55,5,Categorical/Text
+Knowledge_6,str,27864,37573,57.42,5,Categorical/Text
+Knowledge_5,str,27880,37557,57.39,5,Categorical/Text
+Knowledge_2,str,28021,37416,57.18,5,Categorical/Text
+Knowledge_4,str,28030,37407,57.16,5,Categorical/Text
+Knowledge_3,str,28095,37342,57.07,5,Categorical/Text
+Frustration,str,28251,37186,56.83,954,Categorical/Text
+Frequency_2,str,28364,37073,56.65,5,Categorical/Text
+Frequency_1,str,28369,37068,56.65,5,Categorical/Text
+ProfessionalCloud,str,28491,36946,56.46,3,Categorical/Text
+Knowledge_1,str,28664,36773,56.2,5,Categorical/Text
+ProfessionalQuestion,str,28807,36630,55.98,9,Categorical/Text
+TimeAnswering,str,28844,36593,55.92,5,Categorical/Text
+Industry,str,28858,36579,55.9,15,Categorical/Text
+TimeSearching,str,28911,36526,55.82,5,Categorical/Text
+JobSat,float64,29126,36311,55.49,11,Numeric
+JobSatPoints_1,float64,29324,36113,55.19,91,Numeric
+JobSatPoints_4,float64,29393,36044,55.08,72,Numeric
+JobSatPoints_5,float64,29411,36026,55.05,78,Numeric
+JobSatPoints_7,float64,29448,35989,55.0,91,Numeric
+JobSatPoints_11,float64,29445,35992,55.0,79,Numeric
+JobSatPoints_6,float64,29450,35987,54.99,93,Numeric
+JobSatPoints_9,float64,29456,35981,54.99,85,Numeric
+JobSatPoints_10,float64,29450,35987,54.99,75,Numeric
+JobSatPoints_8,float64,29456,35981,54.99,89,Numeric
+MiscTechAdmired,str,29596,35841,54.77,4917,Categorical/Text
+WorkExp,float64,29658,35779,54.68,51,Numeric
+ICorPM,str,29801,35636,54.46,2,Categorical/Text
+AIToolInterested in Using,str,30691,34746,53.1,1949,Categorical/Text
+PlatformAdmired,str,31377,34060,52.05,2556,Categorical/Text
+MiscTechWantToWorkWith,str,32964,32473,49.62,10263,Categorical/Text
+CompTotal,float64,33740,31697,48.44,3337,Numeric
+PlatformWantToWorkWith,str,34532,30905,47.23,4784,Categorical/Text
+WebframeAdmired,str,34943,30494,46.6,5460,Categorical/Text
+AIToolCurrently Using,str,35072,30365,46.4,1310,Categorical/Text
+AISearchDevAdmired,str,35543,29894,45.68,1488,Categorical/Text
+AISearchDevWantToWorkWith,str,36701,28736,43.91,2361,Categorical/Text
+AIBen,str,36894,28543,43.62,113,Categorical/Text
+AIComplex,str,37021,28416,43.42,5,Categorical/Text
+OfficeStackAsyncAdmired,str,37204,28233,43.15,2661,Categorical/Text
+AIAcc,str,37302,28135,43.0,5,Categorical/Text
+AIChallenges,str,37531,27906,42.65,232,Categorical/Text
+WebframeWantToWorkWith,str,38535,26902,41.11,11654,Categorical/Text
+DatabaseAdmired,str,38557,26880,41.08,4051,Categorical/Text
+OfficeStackAsyncWantToWorkWith,str,38966,26471,40.45,3801,Categorical/Text
+MiscTechHaveWorkedWith,str,39443,25994,39.72,9288,Categorical/Text
+TechDoc,str,40897,24540,37.5,113,Categorical/Text
+AIEthics,str,41548,23889,36.51,126,Categorical/Text
+PlatformHaveWorkedWith,str,42366,23071,35.26,5467,Categorical/Text
+DatabaseWantToWorkWith,str,42558,22879,34.96,8478,Categorical/Text
+BuildvsBuy,str,43358,22079,33.74,3,Categorical/Text
+TechEndorse,str,43668,21769,33.27,386,Categorical/Text
+ToolsTechAdmired,str,43997,21440,32.76,11804,Categorical/Text
+AISearchDevHaveWorkedWith,str,44453,20984,32.07,2663,Categorical/Text
+TBranch,str,44477,20960,32.03,2,Categorical/Text
+AIThreat,str,44689,20748,31.71,3,Categorical/Text
+OfficeStackSyncAdmired,str,44712,20725,31.67,2555,Categorical/Text
+WebframeHaveWorkedWith,str,45161,20276,30.99,12235,Categorical/Text
+BuyNewTool,str,45181,20256,30.95,215,Categorical/Text
+SOPartFreq,str,45237,20200,30.87,6,Categorical/Text
+AISent,str,45873,19564,29.9,6,Categorical/Text
+ToolsTechWantToWorkWith,str,46084,19353,29.58,16549,Categorical/Text
+Currency,str,46684,18753,28.66,142,Categorical/Text
+OfficeStackSyncWantToWorkWith,str,46711,18726,28.62,3205,Categorical/Text
+PurchaseInfluence,str,47406,18031,27.55,3,Categorical/Text
+OrgSize,str,47480,17957,27.44,10,Categorical/Text
+OfficeStackAsyncHaveWorkedWith,str,48093,17344,26.5,6014,Categorical/Text
+LearnCodeOnline,str,49237,16200,24.76,10853,Categorical/Text
+DatabaseHaveWorkedWith,str,50254,15183,23.2,9050,Categorical/Text
+NEWCollabToolsAdmired,str,50711,14726,22.5,7545,Categorical/Text
+LanguageAdmired,str,50872,14565,22.26,12335,Categorical/Text
+YearsCodePro,str,51610,13827,21.13,52,Categorical/Text
+NEWCollabToolsWantToWorkWith,str,52087,13350,20.4,9751,Categorical/Text
+ToolsTechHaveWorkedWith,str,52482,12955,19.8,19883,Categorical/Text
+OpSysProfessional use,str,52973,12464,19.05,2032,Categorical/Text
+CodingActivities,str,54466,10971,16.77,118,Categorical/Text
+RemoteWork,str,54806,10631,16.25,3,Categorical/Text
+OfficeStackSyncHaveWorkedWith,str,55545,9892,15.12,5049,Categorical/Text
+LanguageWantToWorkWith,str,55752,9685,14.8,22769,Categorical/Text
+SurveyLength,str,56182,9255,14.14,3,Categorical/Text
+SurveyEase,str,56238,9199,14.06,3,Categorical/Text
+NEWCollabToolsHaveWorkedWith,str,57592,7845,11.99,14168,Categorical/Text
+OpSysPersonal use,str,58174,7263,11.1,2488,Categorical/Text
+Country,str,58930,6507,9.94,185,Categorical/Text
+SOHow,str,58962,6475,9.9,111,Categorical/Text
+SOComm,str,59163,6274,9.59,6,Categorical/Text
+DevType,str,59445,5992,9.16,34,Categorical/Text
+SOVisitFreq,str,59536,5901,9.02,5,Categorical/Text
+SOAccount,str,59560,5877,8.98,3,Categorical/Text
+LanguageHaveWorkedWith,str,59745,5692,8.7,23864,Categorical/Text
+YearsCode,str,59869,5568,8.51,52,Categorical/Text
+NEWSOSites,str,60286,5151,7.87,32,Categorical/Text
+LearnCode,str,60488,4949,7.56,418,Categorical/Text
+EdLevel,str,60784,4653,7.11,8,Categorical/Text
+AISelect,str,60907,4530,6.92,3,Categorical/Text
+MainBranch,str,65437,0,0.0,5,Categorical/Text
+Age,str,65437,0,0.0,8,Categorical/Text
+Employment,str,65437,0,0.0,110,Categorical/Text
+Check,str,65437,0,0.0,1,Categorical/Text
+ResponseId,int64,65437,0,0.0,65437,Numeric
